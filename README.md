@@ -2,7 +2,7 @@
 
 This repository contains the dataset and code for our CIKM 2025 paper.
 
-![Fig1_v3](images/SSRD_construct.png)
+![Fig](images/SSRD_construct.png)
 
 ## 1. Download the SSRD Dataset
 
@@ -75,7 +75,7 @@ model/
 └── prediction_fullft_.csv
 ```
 
-### 2.1 Fine-tuning the model
+### Fine-tuning the model
 Each model folder includes a `train.sh` file that loads `ds_zero3.json` and runs the full fine-tuning process.
 
 **Gemma2 Fine-tuning**
@@ -103,11 +103,13 @@ bash sft7b.sh
 ```
 
 
-### 2.2 Evaluating the fine-tuned model
+### Evaluating the fine-tuned model
 After training, run the `eval.sh` in the same directory.
 This script performs inference and computes metrics.
 
-### 2.3 3-shot evaluation (option)
+![Fig](images/Main_result.png)
+
+### 3-shot evaluation (optional)
 
 To perform 3-shot evaluation, modify `eval.sh` by setting the path of the pre-trained model from Hugging Face in the `MODEL_DIR` variable.  
 Then, execute the following command to run the 3-shot inference:
