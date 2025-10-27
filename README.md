@@ -6,6 +6,7 @@ This repository contains the dataset and code for our CIKM 2025 paper.
 <p align="center">
   <img src="images/Main_result.png" alt="Fig" width="80%">
 </p>
+
 ## 1. Download the SSRD Dataset
 
 The **SSRD (Sarcasm Subtype-specific Reasoning Dataset)** is the core dataset used for fine-tuning and evaluating all models in this repository.  
