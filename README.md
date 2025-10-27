@@ -2,7 +2,7 @@
 
 This repository contains the dataset and code for our CIKM 2025 paper.
 
-![Fig1_v3](https://github.com/user-attachments/assets/1c5182a9-b98e-41fe-9aa3-a49c2c53172d)
+![Fig1_v3](images/SSRD_construct.png)
 
 ## 1. Download the SSRD Dataset
 
