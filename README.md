@@ -2,6 +2,7 @@
 
 This repository contains the dataset and code for our CIKM 2025 paper.
 
+<img width="2078" height="1174" alt="Fig1_v3" src="https://github.com/user-attachments/assets/1c5182a9-b98e-41fe-9aa3-a49c2c53172d" />
 
 ## 1. Download the SSRD Dataset
 
@@ -121,6 +122,6 @@ The fine-tuned models from this study are publicly available on Hugging Face.
 |--------|-------------------|
 | **Qwen2.5-7B-Instruct_SSRG** | [![Checkpoint](https://img.shields.io/badge/Download-Checkpoint-blue?logo=huggingface)](https://huggingface.co/Choongwon/Qwen2.5-7B-Instruct_SSRG/tree/main) |
 | **Llama-3.1-8B-Instruct SSRG** | [![Checkpoint](https://img.shields.io/badge/Download-Checkpoint-blue?logo=huggingface)](https://huggingface.co/Choongwon/Llama-3.1-8B-Instruct_SSRG/tree/main) |
-| **Gemma2-9B-it_SSRG** | [![Checkpoint](https://img.shields.io/badge/Download-Checkpoint-blue?logo=huggingface)](https://https://huggingface.co/Choongwon/gemma-2-9b-it_SSRG/tree/main) |
+| **Gemma2-9B-it_SSRG** | [![Checkpoint](https://img.shields.io/badge/Download-Checkpoint-blue?logo=huggingface)](https://huggingface.co/Choongwon/gemma-2-9b-it_SSRG/tree/main) |
 | **Qwen2.5-7B-VL-Instruct_SSRG** | [![Checkpoint](https://img.shields.io/badge/Download-Checkpoint-blue?logo=huggingface)](https://huggingface.co/Choongwon/Qwen2.5-VL-7B-Instruct_SSRG/tree/main) |
 
